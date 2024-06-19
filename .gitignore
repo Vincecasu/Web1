@@ -1,0 +1,3 @@
+*.jpeg
+*.jpg
+server/node_modules
